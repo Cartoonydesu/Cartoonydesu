@@ -1,13 +1,14 @@
 # 💫 About Me:
-## Profile
+### Profile
 🤍 My name is Piraya Sutthiparinyanon. My nickname is Cartoon.<br>🇹🇭 I am Thai. Living in Bangkok, Thailand.<br>📖 I am currently studying in Information Technology department, King's Mongkut University of Technology Thonburi.<br><br>
 
-## My most confident programming language**<br>🥇 1st : Backend using Java with Springboot<br>🥈 2nd : Database using SQL<br>🥉 3rd : Frontend using HTML and CSS <br>
+### My most confident programming language
+🥇 1st : Backend using Java with Springboot<br>🥈 2nd : Database using SQL<br>🥉 3rd : Frontend using HTML and CSS <br>
 
-## My Interest
+### My Interest
 💻 Coding !<br>✏️ Drawing / designing specialise at Digital art<br>🖱️ Live2D model rigging<br>✂️ Handcrafting<br>🎮 Game<br>🌸 Japanese anime / cartoon<br>📖 Chinese novel<br>📖 Writing novel and fanfiction<br>
 
-## Currently learning
+### Currently learning
 💻 More programming language<br>✏️ More drawing practice<br>🖱️ More model rigging practice<br>🇯🇵 Japanese<br>🇨🇳 Chinese<br>
 
 
