@@ -9,7 +9,16 @@
 💻 Coding !<br>✏️ Drawing / designing specialise at Digital art<br>🖱️ Live2D model rigging<br>✂️ Handcrafting<br>🎮 Game<br>🌸 Japanese anime / cartoon<br>📖 Chinese novel<br>📖 Writing novel and fanfiction<br>
 
 ### Currently learning
-💻 More programming language<br>✏️ More drawing practice<br>🖱️ More model rigging practice<br>🇯🇵 Japanese<br>🇨🇳 Chinese<br>
+💻 More programming language<br>✏️ More drawing practice<br>🖱️ More model rigging practice<br>
+
+### Speakable language
+#### Fluent
+🇹🇭 Thai<br>
+🇺🇸 English : I mixed up British + American English<br>
+#### Could do a tiny daily conversation 
+🇯🇵 Japanese<br>
+🇨🇳 Chinese<br>
+🇺🇸 German (Dutch)<br>
 
 
 ## 🌐 Socials:
